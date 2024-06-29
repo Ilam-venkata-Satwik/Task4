@@ -1,0 +1,19 @@
+/* src/components/Contact.css */
+.contact {
+    text-align: center;
+  }
+  
+  .contact h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  .contact p {
+    font-size: 1.2rem;
+  }
+  
+  .contact a {
+    color: #61dafb;
+    text-decoration: none;
+  }
+  

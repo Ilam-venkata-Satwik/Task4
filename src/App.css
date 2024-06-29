@@ -1,0 +1,41 @@
+/* src/App.css */
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 1000;
+}
+
+.App-header nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.App-header nav ul li {
+  display: inline;
+}
+
+.App-header nav ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+main {
+  margin-top: 80px;
+  padding: 20px;
+}
+
+section {
+  margin: 20px 0;
+}
+
+/* Add styles for other components */
